@@ -1,6 +1,6 @@
-# Arvyax Wellness - Full Stack Starter
+# Arvyax Wellness - 
 
-This repo is a starter full-stack project implementing the Arvyax internship assignment:
+This repo is a full-stack project implementing the Arvyax internship assignment:
 - Node.js + Express backend with MongoDB
 - React frontend with auto-save, draft/publish, and JWT auth
 
