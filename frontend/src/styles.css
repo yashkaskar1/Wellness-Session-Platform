@@ -1,0 +1,9 @@
+style.css
+body { font-family: Arial, sans-serif; margin:0; padding:0; }
+.app header { display:flex; align-items:center; justify-content:space-between; padding:12px 24px; background:#f7f7f7; border-bottom:1px solid #ddd; }
+.app header nav a, .app header nav button { margin-left:12px; }
+main { padding:20px; }
+.auth-form, .editor { max-width:700px; margin:20px auto; display:flex; flex-direction:column; gap:10px; }
+input { padding:8px; font-size:16px; }
+button { padding:8px 12px; }
+.status { margin-top:8px; color:#555; }

@@ -1,0 +1,13 @@
+# Node / JS
+node_modules/
+npm-debug.log
+.env
+.env.local
+.DS_Store
+
+# React build output
+frontend/build
+frontend/node_modules
+
+# Backend
+backend/node_modules
